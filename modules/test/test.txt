@@ -1,0 +1,1 @@
+Hello, nodeVocê adicionou essa litnha através do método fs.appendFile
